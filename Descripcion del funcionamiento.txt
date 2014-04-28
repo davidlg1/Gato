@@ -1,5 +1,5 @@
 La logia del programa, reside en que dado un movimiento del jugador o de la maquina (quien tire primero) 
-se genera un �rbol en el cual cada nodo contiene un movimiento posible y asi sucesivamente hasta que se 
+se genera un arbol en el cual cada nodo contiene un movimiento posible y asi sucesivamente hasta que se 
 llegue a un final que puede ser un empate, victoria o derrota.
 
 Una vez generado el arbol se hace uso de los metodos de Min y Max para encontrar el camino mas proximo 
